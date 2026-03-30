@@ -47,3 +47,18 @@ Summary: A researched case study on a specific cybercrime threat (such as Phishi
 
 Folder: task-5-cybercrime/
 
+Key Links
+
+Canva: https://www.canva.in/
+
+Git Hub: https://github.com/
+
+Linked In: https://in.linkedin.com/
+
+Hacker rank: https://www.hackerrank.com/
+
+kaggle: https://www.kaggle.com/
+
+Google Forms: https://docs.google.com/forms/d/e/1FAIpQLSeX4-YeqmVH5jj874f0jIvDdUuRM4qQT5mKchiDSijooJ1Hsw/viewform?usp=sharing&ouid=106755432224784817334
+
+Cybercrime Portal: https://www.cybercrime.gov.in/
